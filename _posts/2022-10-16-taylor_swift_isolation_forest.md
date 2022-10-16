@@ -2,7 +2,9 @@
 title: "What are Taylor Swift's most unusual songs?"
 classes: wide
 tags:
-    - R, anomaly detection, music
+    - R
+    - anomaly detection
+    - music
 ---
 
 I recently [wrote a blog post analysing the musical evolution of Taylor
@@ -329,13 +331,13 @@ compared to the song *“Misery Business”* by Paramore.
 a song that isn’t actually live. It features Taylor Swift rapping
 although it does not have a particularly high value for `speechiness`.
 
-# Conclusion
+### Conclusion
 
 In this post we’ve used anomaly detection to identify Taylor Swift’s
 most unusual songs and seen just how versatile she is as a musical
 artist.
 
-# Further work
+### Further work
 
 We could extend this approach to use a wider selection of musical
 features. We could also use the same approach to explore the catalogues

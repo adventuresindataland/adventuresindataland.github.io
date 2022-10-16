@@ -2,7 +2,9 @@
 title: "Are cruelty-free and vegan beauty products more expensive?"
 classes: wide
 tags:
-    - python, data analysis
+    - Python
+    - data analysis
+    - makeup
 excerpt_separator: <!--more-->
 ---
 

@@ -2,7 +2,9 @@
 title: "What movies do critics and audiences disagree on?"
 classes: wide
 tags:
-    - R, data analysis
+    - R
+    - data analysis
+    - movies
 ---
 
 *Rotten Tomatoes* is a film site that shows reviews from both critics

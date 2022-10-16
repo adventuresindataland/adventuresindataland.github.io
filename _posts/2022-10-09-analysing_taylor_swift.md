@@ -2,7 +2,9 @@
 title: "How has Taylor Swift's music evolved over time?"
 classes: wide
 tags:
-    - R, data analysis, music
+    - R
+    - data analysis
+    - music
 excerpt_separator: <!--more-->
 ---
 
